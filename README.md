@@ -2,10 +2,10 @@
 
 **Computational Engineer | DeSci Builder | Structural Biology & MD**
 
-I focus on leveraging computational brute force and *in silico* validation to solve bottlenecks in human longevity and biogerontology. 
+I build computational models and run *in silico* validations to solve structural bottlenecks in human longevity and biogerontology. 
 
 🧬 **Current Focus:**
-* Molecular Dynamics (OpenMM, AMBER, Gromacs)
+* Molecular Dynamics (OpenMM, AMBER, GROMACS)
 * Intrinsically Disordered Proteins (IDRs) & Liquid-Liquid Phase Separation (LLPS)
 * Translating extreme longevity mechanisms (e.g., Bowhead Whale) to human physiological conditions.
 
