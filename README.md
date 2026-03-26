@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, i'm Eduardo T. 👋
 
-<!--
-**EduardCTS/EduardCTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational Engineer | DeSci Builder | Structural Biology & MD**
 
-Here are some ideas to get you started:
+I focus on leveraging computational brute force and *in silico* validation to solve bottlenecks in human longevity and biogerontology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 **Current Focus:**
+* Molecular Dynamics (OpenMM, AMBER, Gromacs)
+* Intrinsically Disordered Proteins (IDRs) & Liquid-Liquid Phase Separation (LLPS)
+* Translating extreme longevity mechanisms (e.g., Bowhead Whale) to human physiological conditions.
+
+🔗 **Connect & Collaborate:**
+* X / Twitter (https://x.com/EduardCTS)
+* ResearchHub (https://www.researchhub.com/author/8572674)
+
+*"Science should be open, reproducible, and decentralized."*
