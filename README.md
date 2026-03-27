@@ -1,4 +1,4 @@
-### Hi there, i'm Eduardo T.
+### I'm Eduardo T.
 
 **Computational Engineer | DeSci Builder | Structural Biology & MD**
 I build computational models and run *in silico* validations to solve structural bottlenecks in human longevity and biogerontology. 
