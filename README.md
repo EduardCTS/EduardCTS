@@ -9,7 +9,7 @@ I build computational models and run *in silico* validations to solve structural
 - Translating extreme longevity mechanisms (e.g., Bowhead Whale) to human physiological conditions.
 
  **Connect & Collaborate**🔗
-* X / Twitter (https://x.com/EduardCTS)
-* ResearchHub (https://www.researchhub.com/author/8572674)
+- X / Twitter (https://x.com/EduardCTS)
+- ResearchHub (https://www.researchhub.com/author/8572674)
 
 *"Science should be open, reproducible, and decentralized."*
